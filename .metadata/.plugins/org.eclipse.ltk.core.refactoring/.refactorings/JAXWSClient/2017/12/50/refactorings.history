@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.codingraja.javatech.endpoint.impl&apos; to &apos;JAXWSServerOnTomcat/src&apos;&#x0D;&#x0A;- Original project: &apos;JAXWSClient&apos;&#x0D;&#x0A;- Destination element: &apos;JAXWSServerOnTomcat/src&apos;&#x0D;&#x0A;- Original element: &apos;JAXWSClient/src/com.codingraja.javatech.endpoint.impl&apos;" description="Copy package" destination="=JAXWSServerOnTomcat/src" element1="/src&lt;com.codingraja.javatech.endpoint.impl" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1513190048401" version="1.0"/>
+</session>

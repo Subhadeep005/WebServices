@@ -1,0 +1,8 @@
+
+msquid:S2184"@Cast one of the operands of this addition operation to a "long".(À‹Ğ8µ¨€ê+H¹RMINORZBUG
+}squid:S1192"FDefine a constant instead of duplicating this literal "Babai" 3 times.(¶ËŠ³8¼€š€ê+H¶RCRITICALZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó®··8á¢¬€ê+H·RMINORZ
+CODE_SMELL
+squid:S1192"JDefine a constant instead of duplicating this literal "Subhadeep" 3 times.(¨ïÊ‰8¼€š€ê+H¸RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+s
+squid:S106"";Replace this usage of System.out or System.err by a logger.(Áù†‚ÿÿÿÿÿ8Õİì+HÔRMAJORZ
+CODE_SMELL
+squid:S1488P"[Immediately return this expression instead of assigning it to the temporary variable "uri".(Üş¨Õ8¾ÿ£œì+HÕRMINORZ
+CODE_SMELL
+n
+squid:S106/";Replace this usage of System.out or System.err by a logger.(¡âÕ8‰ºÙƒ÷+HÖRMAJORZ
+CODE_SMELL
